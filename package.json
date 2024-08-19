@@ -1,0 +1,23 @@
+{
+  "name": "project-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamilingJS/google-trend-scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamilingJS/google-trend-scraper/issues"
+  },
+  "homepage": "https://github.com/CamilingJS/google-trend-scraper#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
